@@ -307,6 +307,9 @@ close_keyboard = InlineKeyboardMarkup(
                 [
                     InlineKeyboardButton(
                         text="🌪 𝗖𝗟𝗢𝗦𝗘 🌪", callback_data="close"
+                    ),
+                    InlineKeyboardButton(
+                text="🦅𝗢𝗪𝗡𝗘𝗥 🦅", url=f"https://t.me/lll_Romaan_lll"
                     )
                 ]    
             ]
