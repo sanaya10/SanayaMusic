@@ -9,17 +9,17 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
     buttons = [
         [
             InlineKeyboardButton(
-                text="💸 𝗔𝗗𝗗 𝗠𝗘 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣 💸",
+                text="☆𝐀𝐝𝐝 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩☆",
                 url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
             )
         ],
         [
             InlineKeyboardButton(
-                text="🚑 𝗛𝗘𝗟𝗣 🚑",
+                text="✦𝐇𝐞𝐥𝐩✦",
                 callback_data="settings_back_helper",
             ),
             InlineKeyboardButton(
-                text="⚙ 𝗦𝗘𝗧𝗧𝗜𝗡𝗚𝗦 ⚙", callback_data="settings_helper"
+                text="⚙ 𝐒𝐞𝐭𝐭𝐢𝐧𝐠𝐬 ⚙", callback_data="settings_helper"
             ),
         ],
      ]
@@ -30,26 +30,26 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
     buttons = [
         [
             InlineKeyboardButton(
-                text="💸 𝗔𝗗𝗗 𝗠𝗘 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣 💸",
+                text="☆𝐀𝐝𝐝 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩☆",
                 url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
             )
         ],
         [
             InlineKeyboardButton(
-                text="🚑 𝗛𝗘𝗟𝗣 🚑", callback_data="settings_back_helper"
+                text="✦𝐇𝐞𝐥𝐩✦", callback_data="settings_back_helper"
             )
         ],
         [
             InlineKeyboardButton(
-                text="🎧 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 🎧", url=config.SUPPORT_GROUP
+                text="🍁𝐆𝐫𝐨𝐮𝐩🥀", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
-                text=" 🛠𝗠𝗔𝗜𝗡𝗧𝗘𝗡𝗔𝗡𝗖𝗘 🛠 ", user_id=OWNER
+                text="🍁𝐂𝐡𝐚𝐧𝐧𝐞𝐥🥀", url=config.SUPPORT_CHANNEL
             )
         ],
         [
             InlineKeyboardButton(
-                text="📼 𝗦𝗢𝗨𝗥𝗖𝗘 📼", url=f"https://t.me/lll_Romaan_lll"
+                text="❄️𝐎𝐰𝐧𝐞𝐫❄️", url=f"https://t.me/lll_Romaan_lll"
             )
         ],
      ]
