@@ -14,19 +14,19 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID"))
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "𝄟‌≛⃝🥀𝗠ʘ𝖔𝒏ใïᧁ𝒉𝐭⎯꯭‌𝆺꯭𝅥✗𝐃᭄𓆪ꪾ🥀... ᴍᴜsɪᴄ")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "˹𝙉𝘼𝙔𝙍𝘼˼. ᴍᴜsɪᴄ")
 
 OWNER_ID = list(map(int, getenv("OWNER_ID", "").split()))
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/sarcasticsamm/DAXXMUSICXD")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Romaan313/Nyara_Music")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/khamoshiya01")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/friendship_forever_group143")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ii_U_F_C_ii")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/U_F_C_R_O_B_O_T")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 
@@ -76,28 +76,28 @@ clean = {}
 autoclean = []
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/6ed33798ede6345ee15c1.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/877ca1256330fc395b79f.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://telegra.ph/file/43134c2fb30c810d27813.jpg",
+    "https://telegra.ph/file/56d1760224589ee370186.jpg",
 )
 
-PLAYLIST_IMG_URL = "https://telegra.ph/file/6ed33798ede6345ee15c1.jpg"
+PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
 
 GLOBAL_IMG_URL = "https://te.legra.ph/file/e906c2def5afe8a9b9120.jpg"
 
 STATS_IMG_URL = "https://te.legra.ph/file/e906c2def5afe8a9b9120.jpg"
 
-TELEGRAM_AUDIO_URL = "https://telegra.ph/file/6ed33798ede6345ee15c1.jpg"
+TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
 
-TELEGRAM_VIDEO_URL = "https://telegra.ph/file/6ed33798ede6345ee15c1.jpg"
+TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
 
 STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
 
 SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/bb0ff85f2dd44070ea519.jpg"
 
-YOUTUBE_IMG_URL = "https://telegra.ph/file/6ed33798ede6345ee15c1.jpg"
+YOUTUBE_IMG_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
 
 SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/37d163a2f75e0d3b403d6.jpg"
 
@@ -130,9 +130,9 @@ if UPSTREAM_REPO:
 if PING_IMG_URL:
     if PING_IMG_URL != "assets/Ping.jpeg":
         if not re.match("(?:http|https)://", PING_IMG_URL):
-            PING_IMG_URL = "https://telegra.ph/file/43134c2fb30c810d27813.jpg"
+            PING_IMG_URL = "https://telegra.ph/file/56d1760224589ee370186.jpg"
 
 if START_IMG_URL:
     if START_IMG_URL != "assets/Ping.jpeg":
         if not re.match("(?:http|https)://", START_IMG_URL):
-            START_IMG_URL = "https://telegra.ph/file/6ed33798ede6345ee15c1.jpg"
+            START_IMG_URL = "https://te.legra.ph/file/56d1760224589ee370186.jpg"
