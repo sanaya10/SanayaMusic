@@ -59,11 +59,11 @@ def help_pannel(_, START: Union[bool, int] = None):
             ],
             [
                 InlineKeyboardButton(
-                    text="𝐏-𝐋𝐢𝐬𝐭",
+                    text="𝐏𝐥𝐢𝐬𝐭",
                     callback_data="help_callback hb6",
                 ),
                 InlineKeyboardButton(
-                    text="𝐕-𝐂𝐡𝐚𝐭",
+                    text="𝐕𝐜𝐡𝐚𝐭",
                     callback_data="help_callback hb10",
                 ),
             ],
