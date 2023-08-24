@@ -233,10 +233,10 @@ stream_4 : "➻ **sᴛᴀʀᴛᴇᴅ sᴛʀᴇᴀᴍɪɴɢ**\n\n✨ **ᴛɪᴛʟ
 # Inline Buttons
 
 #General Buttons
-CLOSE_BUTTON  : "🌪 𝗖𝗟𝗢𝗦𝗘 🌪"
-CLOSEMENU_BUTTON  : "🌪 𝗖𝗟𝗢𝗦𝗘 🌪"
-BACK_BUTTON : "🔋𝗕𝗔𝗖𝗞🔋"
-UNBAN_BUTTON : "🦧 𝗨𝗡𝗕𝗔𝗡 🦧"
+CLOSE_BUTTON  : "𝐂𝐥𝐨𝐬𝐞"
+CLOSEMENU_BUTTON  : "𝐂𝐥𝐨𝐬𝐞"
+BACK_BUTTON : "𝐁𝐚𝐜𝐤"
+UNBAN_BUTTON : "𝐔𝐧𝐛𝐚𝐧"
 
 #Lyrics
 L_B_1 : "🚀 ᴄʜᴇᴄᴋᴏᴜᴛ ʟʏʀɪᴄs ɴᴏᴡ"
