@@ -61,10 +61,20 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="☆𝐂𝐥𝐨𝐬𝐞☆", callback_data=f"close"
+                text="🍁𝐆𝐫𝐨𝐮𝐩🥀", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
+                text="🍁𝐂𝐡𝐚𝐧𝐧𝐞𝐥🥀", url=config.SUPPORT_CHANNEL
+            )
+        ],
+        [
+            InlineKeyboardButton(
                 text="❄️𝐎𝐰𝐧𝐞𝐫❄️", url=f"https://t.me/lll_Romaan_lll"
+            )
+        ],
+        [
+            InlineKeyboardButton(
+                text="☆𝐂𝐥𝐨𝐬𝐞☆", callback_data=f"close"
             )
         ],
     ]
@@ -121,10 +131,20 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="☆𝐂𝐥𝐨𝐬𝐞☆", callback_data=f"close"
+                text="🍁𝐆𝐫𝐨𝐮𝐩🥀", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
+                text="🍁𝐂𝐡𝐚𝐧𝐧𝐞𝐥🥀", url=config.SUPPORT_CHANNEL
+            )
+        ],
+        [
+            InlineKeyboardButton(
                 text="❄️𝐎𝐰𝐧𝐞𝐫❄️", url=f"https://t.me/lll_Romaan_lll"
+            )
+        ],
+        [
+            InlineKeyboardButton(
+                text="☆𝐂𝐥𝐨𝐬𝐞☆", callback_data=f"close"
             )
         ],
     ]
@@ -153,10 +173,20 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="☆𝐂𝐥𝐨𝐬𝐞☆", callback_data=f"close"
+                text="🍁𝐆𝐫𝐨𝐮𝐩🥀", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
+                text="🍁𝐂𝐡𝐚𝐧𝐧𝐞𝐥🥀", url=config.SUPPORT_CHANNEL
+            )
+        ],
+        [
+            InlineKeyboardButton(
                 text="❄️𝐎𝐰𝐧𝐞𝐫❄️", url=f"https://t.me/lll_Romaan_lll"
+            )
+        ],
+        [
+            InlineKeyboardButton(
+                text="☆𝐂𝐥𝐨𝐬𝐞☆", callback_data=f"close"
             )
         ],
     ]
@@ -182,10 +212,20 @@ def telegram_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="☆𝐂𝐥𝐨𝐬𝐞☆", callback_data=f"close"
+                text="🍁𝐆𝐫𝐨𝐮𝐩🥀", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
+                text="🍁𝐂𝐡𝐚𝐧𝐧𝐞𝐥🥀", url=config.SUPPORT_CHANNEL
+            )
+        ],
+        [
+            InlineKeyboardButton(
                 text="❄️𝐎𝐰𝐧𝐞𝐫❄️", url=f"https://t.me/lll_Romaan_lll"
+            )
+        ],
+        [
+            InlineKeyboardButton(
+                text="☆𝐂𝐥𝐨𝐬𝐞☆", callback_data=f"close"
             )
         ],
     ]
@@ -343,10 +383,20 @@ def queue_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="☆𝐂𝐥𝐨𝐬𝐞☆", callback_data=f"close"
+                text="🍁𝐆𝐫𝐨𝐮𝐩🥀", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
+                text="🍁𝐂𝐡𝐚𝐧𝐧𝐞𝐥🥀", url=config.SUPPORT_CHANNEL
+            )
+        ],
+        [
+            InlineKeyboardButton(
                 text="❄️𝐎𝐰𝐧𝐞𝐫❄️", url=f"https://t.me/lll_Romaan_lll"
+            )
+        ],
+        [
+            InlineKeyboardButton(
+                text="☆𝐂𝐥𝐨𝐬𝐞☆", callback_data=f"close"
             )
         ],
     ]
