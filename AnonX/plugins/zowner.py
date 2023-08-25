@@ -99,13 +99,13 @@ async def help(client: Client, message: Message):
     & ~filters.edited & filters.private & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/2ecc21a8a45a882dc9566.jpg",
+        photo=f"https://te.legra.ph/file/cf1fabc339674db6d34be.mp4",
         caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐃𝐌❤️𝐎𝐖𝐍𝐄𝐑🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🆁𝗢𝗠𝗔𝗔𝗡", url=f"https://t.me/+WXnUkRHx_MA0Njc1")
+                        "🆁𝗢𝗠𝗔𝗔𝗡", url=f"https://t.me/lll_Romaan_lll")
                 ]
             ]
         ),
@@ -122,13 +122,13 @@ async def help(client: Client, message: Message):
     & ~filters.edited & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/2ecc21a8a45a882dc9566.jpg",
-        caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
+        photo=f"https://te.legra.ph/file/d8fd2724be99924dfa8b0.jpg",
+        caption=f"""𝐔𝐍𝐎𝐅𝐅𝐂𝐈𝐀𝐋 𝐅𝐑𝐈𝐄𝐍𝐃𝐒 𝐂𝐇𝐀𝐓""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌱🆁𝗢𝗠𝗔𝗔𝗡🌱", url=f"https://t.me/lll_Romaan_lll")
+                        "𝐔𝐍𝐎𝐅𝐅𝐂𝐈𝐀𝐋 𝐅𝐑𝐈𝐄𝐍𝐃𝐒 𝐂𝐇𝐀𝐓", url=f"https://t.me/+WXnUkRHx_MA0Njc1")
                 ]
             ]
         ),
@@ -141,12 +141,12 @@ async def help(client: Client, message: Message):
 async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://te.legra.ph/file/d8fd2724be99924dfa8b0.jpg",
-        caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
+        caption=f"""𝐔𝐍𝐎𝐅𝐅𝐂𝐈𝐀𝐋 𝐅𝐑𝐈𝐄𝐍𝐃𝐒 𝐂𝐇𝐀𝐓""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌱🆁𝗢𝗠𝗔𝗔𝗡🌱", url=f"https://t.me/lll_Romaan_lll")
+                        "𝐔𝐍𝐎𝐅𝐅𝐂𝐈𝐀𝐋 𝐅𝐑𝐈𝐄𝐍𝐃𝐒 𝐂𝐇𝐀𝐓", url=f"https://t.me/+WXnUkRHx_MA0Njc1")
                 ]
             ]
         ),
@@ -159,12 +159,12 @@ async def help(client: Client, message: Message):
 async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://te.legra.ph/file/d8fd2724be99924dfa8b0.jpg",
-        caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
+        caption=f""𝐔𝐍𝐎𝐅𝐅𝐂𝐈𝐀𝐋 𝐅𝐑𝐈𝐄𝐍𝐃𝐒 𝐂𝐇𝐀𝐓""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌱🆁𝗢𝗠𝗔𝗔𝗡🌱", url=f"https://t.me/lll_Romaan_lll")
+                        "𝐔𝐍𝐎𝐅𝐅𝐂𝐈𝐀𝐋 𝐅𝐑𝐈𝐄𝐍𝐃𝐒 𝐂𝐇𝐀𝐓", url=f"https://t.me/+WXnUkRHx_MA0Njc1")
                 ]
             ]
         ),
