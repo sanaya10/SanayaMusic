@@ -5,7 +5,7 @@ import os
 import re
 import asyncio
 import time
-from AmonX import app
+from AnonX import app
 import string
 from strings import get_command
 from AnonX.misc import SUDOERS
