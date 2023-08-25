@@ -159,7 +159,7 @@ async def help(client: Client, message: Message):
 async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://te.legra.ph/file/d8fd2724be99924dfa8b0.jpg",
-        caption=f""𝐔𝐍𝐎𝐅𝐅𝐂𝐈𝐀𝐋 𝐅𝐑𝐈𝐄𝐍𝐃𝐒 𝐂𝐇𝐀𝐓""",
+        caption=f"""𝐔𝐍𝐎𝐅𝐅𝐂𝐈𝐀𝐋 𝐅𝐑𝐈𝐄𝐍𝐃𝐒 𝐂𝐇𝐀𝐓""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
