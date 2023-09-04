@@ -3,7 +3,7 @@
 ### ❤️‍🔥𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒👀❣️
 
 <!--
-**🆁𝗢𝗠𝗔𝗔𝗡** a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**👑𝑺𝒂𝒏𝒂𝒚𝒂** a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
@@ -15,13 +15,13 @@
 
 
 <h2 align="center">
-    ─「 ˹𝙉𝘼𝙔𝙍𝘼˼」─
+    ─「˹𝑺𝒂𝒏𝒂𝒚𝒂 𝐦𝐮𝐬𝐢𝐜˼」─
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭🎭">
 <p align="center">
-  <img src="https://graph.org/file/a535f27568f6146dff601.jpg">
+  <img src="https://te.legra.ph/file/97ca209893d135e3f00e4.jpg">
 </p>
 
 **𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝗕𝗢𝗧❥](http://t.me/Nayra_Robot_bot)**
